@@ -34,7 +34,6 @@
             <scope>test</scope>
         </dependency>
 
-
         <!-- ITextPdf 시작 -->
         <dependency>
             <groupId>com.openhtmltopdf</groupId>
@@ -54,7 +53,6 @@
         </dependency>
         <!-- ITextPdf 종료 -->
 
-        <!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-thymeleaf -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-thymeleaf</artifactId>
